@@ -80,5 +80,10 @@ WHERE DepositStartDate > '01/01/1985'
 GROUP BY DepositGroup, IsDepositExpired
 ORDER BY DepositGroup DESC, IsDepositExpired ASC
 
+--Problem 12.* Rich Wizard, Poor Wizard
+SELECT SUM(k.SumDiff) AS SumDifference
+	FROM (
+  SELECT DepositAmount - LEAD(DepositAmount,1) OVER(ORDER BY Id) AS SumDiff
+	from WizzardDeposits ) AS k
 
 select * from WizzardDeposits
