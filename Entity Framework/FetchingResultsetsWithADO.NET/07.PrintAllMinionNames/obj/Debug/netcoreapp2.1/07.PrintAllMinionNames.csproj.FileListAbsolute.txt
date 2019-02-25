@@ -1,0 +1,14 @@
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\07.PrintAllMinionNames\bin\Debug\netcoreapp2.1\07.PrintAllMinionNames.deps.json
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\07.PrintAllMinionNames\bin\Debug\netcoreapp2.1\07.PrintAllMinionNames.runtimeconfig.json
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\07.PrintAllMinionNames\bin\Debug\netcoreapp2.1\07.PrintAllMinionNames.runtimeconfig.dev.json
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\07.PrintAllMinionNames\bin\Debug\netcoreapp2.1\07.PrintAllMinionNames.dll
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\07.PrintAllMinionNames\bin\Debug\netcoreapp2.1\07.PrintAllMinionNames.pdb
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\07.PrintAllMinionNames\bin\Debug\netcoreapp2.1\01.InitialSetup.dll
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\07.PrintAllMinionNames\bin\Debug\netcoreapp2.1\01.InitialSetup.pdb
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\07.PrintAllMinionNames\obj\Debug\netcoreapp2.1\07.PrintAllMinionNames.csproj.CoreCompileInputs.cache
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\07.PrintAllMinionNames\obj\Debug\netcoreapp2.1\07.PrintAllMinionNames.AssemblyInfoInputs.cache
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\07.PrintAllMinionNames\obj\Debug\netcoreapp2.1\07.PrintAllMinionNames.AssemblyInfo.cs
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\07.PrintAllMinionNames\obj\Debug\netcoreapp2.1\07.PrintAllMinionNames.csproj.CopyComplete
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\07.PrintAllMinionNames\obj\Debug\netcoreapp2.1\07.PrintAllMinionNames.dll
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\07.PrintAllMinionNames\obj\Debug\netcoreapp2.1\07.PrintAllMinionNames.pdb
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\07.PrintAllMinionNames\obj\Debug\netcoreapp2.1\07.PrintAllMinionNames.csprojAssemblyReference.cache

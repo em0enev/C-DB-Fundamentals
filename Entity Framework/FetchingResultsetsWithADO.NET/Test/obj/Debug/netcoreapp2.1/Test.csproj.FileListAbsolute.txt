@@ -1,0 +1,10 @@
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\Test\bin\Debug\netcoreapp2.1\Test.deps.json
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\Test\bin\Debug\netcoreapp2.1\Test.runtimeconfig.json
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\Test\bin\Debug\netcoreapp2.1\Test.runtimeconfig.dev.json
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\Test\bin\Debug\netcoreapp2.1\Test.dll
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\Test\bin\Debug\netcoreapp2.1\Test.pdb
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\Test\obj\Debug\netcoreapp2.1\Test.csproj.CoreCompileInputs.cache
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\Test\obj\Debug\netcoreapp2.1\Test.AssemblyInfoInputs.cache
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\Test\obj\Debug\netcoreapp2.1\Test.AssemblyInfo.cs
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\Test\obj\Debug\netcoreapp2.1\Test.dll
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\Test\obj\Debug\netcoreapp2.1\Test.pdb

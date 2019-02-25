@@ -1,0 +1,14 @@
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\06.RemoveVillain\bin\Debug\netcoreapp2.1\06.RemoveVillain.deps.json
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\06.RemoveVillain\bin\Debug\netcoreapp2.1\06.RemoveVillain.runtimeconfig.json
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\06.RemoveVillain\bin\Debug\netcoreapp2.1\06.RemoveVillain.runtimeconfig.dev.json
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\06.RemoveVillain\bin\Debug\netcoreapp2.1\06.RemoveVillain.dll
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\06.RemoveVillain\bin\Debug\netcoreapp2.1\06.RemoveVillain.pdb
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\06.RemoveVillain\bin\Debug\netcoreapp2.1\01.InitialSetup.dll
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\06.RemoveVillain\bin\Debug\netcoreapp2.1\01.InitialSetup.pdb
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\06.RemoveVillain\obj\Debug\netcoreapp2.1\06.RemoveVillain.csprojAssemblyReference.cache
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\06.RemoveVillain\obj\Debug\netcoreapp2.1\06.RemoveVillain.csproj.CoreCompileInputs.cache
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\06.RemoveVillain\obj\Debug\netcoreapp2.1\06.RemoveVillain.AssemblyInfoInputs.cache
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\06.RemoveVillain\obj\Debug\netcoreapp2.1\06.RemoveVillain.AssemblyInfo.cs
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\06.RemoveVillain\obj\Debug\netcoreapp2.1\06.RemoveVillain.csproj.CopyComplete
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\06.RemoveVillain\obj\Debug\netcoreapp2.1\06.RemoveVillain.dll
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\06.RemoveVillain\obj\Debug\netcoreapp2.1\06.RemoveVillain.pdb

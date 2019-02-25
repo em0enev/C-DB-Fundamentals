@@ -1,0 +1,14 @@
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\05.ChangeTownNameCasing\bin\Debug\netcoreapp2.1\05.ChangeTownNameCasing.deps.json
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\05.ChangeTownNameCasing\bin\Debug\netcoreapp2.1\05.ChangeTownNameCasing.runtimeconfig.json
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\05.ChangeTownNameCasing\bin\Debug\netcoreapp2.1\05.ChangeTownNameCasing.runtimeconfig.dev.json
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\05.ChangeTownNameCasing\bin\Debug\netcoreapp2.1\05.ChangeTownNameCasing.dll
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\05.ChangeTownNameCasing\bin\Debug\netcoreapp2.1\05.ChangeTownNameCasing.pdb
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\05.ChangeTownNameCasing\bin\Debug\netcoreapp2.1\01.InitialSetup.dll
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\05.ChangeTownNameCasing\bin\Debug\netcoreapp2.1\01.InitialSetup.pdb
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\05.ChangeTownNameCasing\obj\Debug\netcoreapp2.1\05.ChangeTownNameCasing.csprojAssemblyReference.cache
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\05.ChangeTownNameCasing\obj\Debug\netcoreapp2.1\05.ChangeTownNameCasing.csproj.CoreCompileInputs.cache
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\05.ChangeTownNameCasing\obj\Debug\netcoreapp2.1\05.ChangeTownNameCasing.AssemblyInfoInputs.cache
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\05.ChangeTownNameCasing\obj\Debug\netcoreapp2.1\05.ChangeTownNameCasing.AssemblyInfo.cs
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\05.ChangeTownNameCasing\obj\Debug\netcoreapp2.1\05.ChangeTownNameCasing.csproj.CopyComplete
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\05.ChangeTownNameCasing\obj\Debug\netcoreapp2.1\05.ChangeTownNameCasing.dll
+C:\Users\emile\source\repos\FetchingResultsetsWithADO.NET\05.ChangeTownNameCasing\obj\Debug\netcoreapp2.1\05.ChangeTownNameCasing.pdb
