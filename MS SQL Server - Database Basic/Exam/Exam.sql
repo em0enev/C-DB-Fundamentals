@@ -78,23 +78,14 @@ INSERT INTO Subjects VALUES
 --3. Update
 UPDATE StudentsSubjects
 SET Grade =  6.00
-WHERE SubjectId = 1 OR SubjectId = 2 and GRADE >5.50 
+WHERE Grade >= 5.50 AND SubjectId IN (1, 2)
 
-SELECT * FROM StudentsExams
+--4. Delete
+DELETE FROM StudentsTeachers
+WHERE TeacherId IN (SELECT Id FROM Teachers WHERE Phone LIKE '%72%')
 
-SELECT SUM(Grade) FROM StudentsSubjects as ss
-WHERE SubjectId = 1  and GRADE >= 5.50 OR SubjectId = 2 and ss.Grade >= 5.50 
---4 
-DELETE t
-FROM Teachers as t 
-WHERE t.Phone LIKE '%72%'
-
-DELETE FROM StudentsTeachers WHERE TeacherId  IN (SELECT TeacherId FROM Teachers as t where Phone LIKE '%72%')
-DELETE FROM Teachers 
-
-select * FROM Teachers as t where Phone LIKE '%72%'
-SELECT * FROM Teachers
-where Phone LIKE '%72%'
+DELETE FROM Teachers
+WHERE Phone LIKE '%72%'
 
 --5. Teen Students
 SELECT s.FirstName, s.LastName, s.Age
@@ -267,76 +258,43 @@ END
 SELECT dbo.udf_ExamGradesToUpdate(12, 5.50)
 
 
--- 19
-go
-CREATE PROCEDURE usp_ExcludeFromSchool(@StudentId int)
+--19. Exclude From School
+
+CREATE PROC usp_ExcludeFromSchool @StudentId INT
 AS 
-	DECLARE @student int = (SELECT s.Id FROM Students as s where @StudentId = s.Id)
-	IF(@student is null)
-	BEGIN
-		RAISERROR('This school has no student with the provided id!',16, 1)
-		RETURN
-	END
+DECLARE @TargetStudentId INT = (SELECT Id FROM Students WHERE Id = @StudentId)
 
-	DELETE FROM StudentsExams
-	WHERE StudentId = 1
+IF (@TargetStudentId IS NULL)
+BEGIN
+	RAISERROR('This school has no student with the provid1ed id!', 16, 1)
+	RETURN
+END
 
-	DELETE FROM StudentsTeachers
-	WHERE StudentId = 1
+DELETE FROM StudentsExams
+WHERE StudentId = 5
 
-	DELETE FROM StudentsSubjects
-	WHERE StudentId = 1
+DELETE FROM StudentsSubjects
+WHERE StudentId = 5
 
-	DELETE FROM Students
-	WHERE Id = 1
+DELETE FROM StudentsTeachers
+WHERE StudentId = 5
 
+DELETE FROM Students
+WHERE Id = 5
 
-
-EXEC usp_ExcludeFromSchool 1
-SELECT COUNT(*) FROM Students
-
-
---
-SELECT count(ss.Grade)
-FROM StudentsExams as ss  
-where ss.Grade BETWEEN 5.50 AND 6 and ss.StudentId = 12
-
---20
+GO
+--20. Deleted Students
 
 CREATE TABLE ExcludedStudents
 (
-	StudentId int
-	, StudentName nvarchar(50)
+StudentId INT, 
+StudentName VARCHAR(30)
 )
 
-CREATE TABLE DeletedOrders
-(
-	OrderId int,
-	ItemId int, 
-	ItemQuantity int
-)
-
-go
-CREATE TRIGGER tr_DeletedOrders  ON students  FOR DELETE
+GO
+CREATE TRIGGER tr_StudentsDelete ON Students
+INSTEAD OF DELETE
 AS
-INSERT INTO ExcludedStudents (StudentId, StudentName)
-	SELECT Id, FirstName from deleted
+INSERT INTO ExcludedStudents(StudentId, StudentName)
+		SELECT Id, FirstName + ' ' + LastName FROM deleted
 
-	drop trigger tr_DeletedOrders 
-
-
-
-
-	DELETE FROM StudentsExams
-WHERE StudentId = 1
-
-DELETE FROM StudentsTeachers
-WHERE StudentId = 1
-
-DELETE FROM StudentsSubjects
-WHERE StudentId = 1
-
-DELETE FROM Students
-WHERE Id = 1
-
-SELECT * FROM ExcludedStudents
