@@ -1,0 +1,14 @@
+C:\Users\emile\source\repos\EntityFrameworkExercise\11.FindLast10Projects\bin\Debug\netcoreapp2.1\11.FindLast10Projects.deps.json
+C:\Users\emile\source\repos\EntityFrameworkExercise\11.FindLast10Projects\bin\Debug\netcoreapp2.1\11.FindLast10Projects.runtimeconfig.json
+C:\Users\emile\source\repos\EntityFrameworkExercise\11.FindLast10Projects\bin\Debug\netcoreapp2.1\11.FindLast10Projects.runtimeconfig.dev.json
+C:\Users\emile\source\repos\EntityFrameworkExercise\11.FindLast10Projects\bin\Debug\netcoreapp2.1\11.FindLast10Projects.dll
+C:\Users\emile\source\repos\EntityFrameworkExercise\11.FindLast10Projects\bin\Debug\netcoreapp2.1\11.FindLast10Projects.pdb
+C:\Users\emile\source\repos\EntityFrameworkExercise\11.FindLast10Projects\bin\Debug\netcoreapp2.1\DatabaseFirst.dll
+C:\Users\emile\source\repos\EntityFrameworkExercise\11.FindLast10Projects\bin\Debug\netcoreapp2.1\DatabaseFirst.pdb
+C:\Users\emile\source\repos\EntityFrameworkExercise\11.FindLast10Projects\obj\Debug\netcoreapp2.1\11.FindLast10Projects.csprojAssemblyReference.cache
+C:\Users\emile\source\repos\EntityFrameworkExercise\11.FindLast10Projects\obj\Debug\netcoreapp2.1\11.FindLast10Projects.csproj.CoreCompileInputs.cache
+C:\Users\emile\source\repos\EntityFrameworkExercise\11.FindLast10Projects\obj\Debug\netcoreapp2.1\11.FindLast10Projects.AssemblyInfoInputs.cache
+C:\Users\emile\source\repos\EntityFrameworkExercise\11.FindLast10Projects\obj\Debug\netcoreapp2.1\11.FindLast10Projects.AssemblyInfo.cs
+C:\Users\emile\source\repos\EntityFrameworkExercise\11.FindLast10Projects\obj\Debug\netcoreapp2.1\11.FindLast10Projects.csproj.CopyComplete
+C:\Users\emile\source\repos\EntityFrameworkExercise\11.FindLast10Projects\obj\Debug\netcoreapp2.1\11.FindLast10Projects.dll
+C:\Users\emile\source\repos\EntityFrameworkExercise\11.FindLast10Projects\obj\Debug\netcoreapp2.1\11.FindLast10Projects.pdb

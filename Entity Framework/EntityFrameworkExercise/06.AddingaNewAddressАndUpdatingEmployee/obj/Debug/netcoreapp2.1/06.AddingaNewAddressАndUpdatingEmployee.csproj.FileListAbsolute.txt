@@ -1,0 +1,14 @@
+C:\Users\emile\source\repos\EntityFrameworkExercise\06.AddingaNewAddressАndUpdatingEmployee\bin\Debug\netcoreapp2.1\06.AddingaNewAddressАndUpdatingEmployee.deps.json
+C:\Users\emile\source\repos\EntityFrameworkExercise\06.AddingaNewAddressАndUpdatingEmployee\bin\Debug\netcoreapp2.1\06.AddingaNewAddressАndUpdatingEmployee.runtimeconfig.json
+C:\Users\emile\source\repos\EntityFrameworkExercise\06.AddingaNewAddressАndUpdatingEmployee\bin\Debug\netcoreapp2.1\06.AddingaNewAddressАndUpdatingEmployee.runtimeconfig.dev.json
+C:\Users\emile\source\repos\EntityFrameworkExercise\06.AddingaNewAddressАndUpdatingEmployee\bin\Debug\netcoreapp2.1\06.AddingaNewAddressАndUpdatingEmployee.dll
+C:\Users\emile\source\repos\EntityFrameworkExercise\06.AddingaNewAddressАndUpdatingEmployee\bin\Debug\netcoreapp2.1\06.AddingaNewAddressАndUpdatingEmployee.pdb
+C:\Users\emile\source\repos\EntityFrameworkExercise\06.AddingaNewAddressАndUpdatingEmployee\bin\Debug\netcoreapp2.1\DatabaseFirst.dll
+C:\Users\emile\source\repos\EntityFrameworkExercise\06.AddingaNewAddressАndUpdatingEmployee\bin\Debug\netcoreapp2.1\DatabaseFirst.pdb
+C:\Users\emile\source\repos\EntityFrameworkExercise\06.AddingaNewAddressАndUpdatingEmployee\obj\Debug\netcoreapp2.1\06.AddingaNewAddressАndUpdatingEmployee.csprojAssemblyReference.cache
+C:\Users\emile\source\repos\EntityFrameworkExercise\06.AddingaNewAddressАndUpdatingEmployee\obj\Debug\netcoreapp2.1\06.AddingaNewAddressАndUpdatingEmployee.csproj.CoreCompileInputs.cache
+C:\Users\emile\source\repos\EntityFrameworkExercise\06.AddingaNewAddressАndUpdatingEmployee\obj\Debug\netcoreapp2.1\06.AddingaNewAddressАndUpdatingEmployee.AssemblyInfoInputs.cache
+C:\Users\emile\source\repos\EntityFrameworkExercise\06.AddingaNewAddressАndUpdatingEmployee\obj\Debug\netcoreapp2.1\06.AddingaNewAddressАndUpdatingEmployee.AssemblyInfo.cs
+C:\Users\emile\source\repos\EntityFrameworkExercise\06.AddingaNewAddressАndUpdatingEmployee\obj\Debug\netcoreapp2.1\06.AddingaNewAddressАndUpdatingEmployee.csproj.CopyComplete
+C:\Users\emile\source\repos\EntityFrameworkExercise\06.AddingaNewAddressАndUpdatingEmployee\obj\Debug\netcoreapp2.1\06.AddingaNewAddressАndUpdatingEmployee.dll
+C:\Users\emile\source\repos\EntityFrameworkExercise\06.AddingaNewAddressАndUpdatingEmployee\obj\Debug\netcoreapp2.1\06.AddingaNewAddressАndUpdatingEmployee.pdb

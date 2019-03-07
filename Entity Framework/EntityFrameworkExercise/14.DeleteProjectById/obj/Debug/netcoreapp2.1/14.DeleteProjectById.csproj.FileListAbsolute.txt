@@ -1,0 +1,14 @@
+C:\Users\emile\source\repos\EntityFrameworkExercise\14.DeleteProjectById\bin\Debug\netcoreapp2.1\14.DeleteProjectById.deps.json
+C:\Users\emile\source\repos\EntityFrameworkExercise\14.DeleteProjectById\bin\Debug\netcoreapp2.1\14.DeleteProjectById.runtimeconfig.json
+C:\Users\emile\source\repos\EntityFrameworkExercise\14.DeleteProjectById\bin\Debug\netcoreapp2.1\14.DeleteProjectById.runtimeconfig.dev.json
+C:\Users\emile\source\repos\EntityFrameworkExercise\14.DeleteProjectById\bin\Debug\netcoreapp2.1\14.DeleteProjectById.dll
+C:\Users\emile\source\repos\EntityFrameworkExercise\14.DeleteProjectById\bin\Debug\netcoreapp2.1\14.DeleteProjectById.pdb
+C:\Users\emile\source\repos\EntityFrameworkExercise\14.DeleteProjectById\bin\Debug\netcoreapp2.1\DatabaseFirst.dll
+C:\Users\emile\source\repos\EntityFrameworkExercise\14.DeleteProjectById\bin\Debug\netcoreapp2.1\DatabaseFirst.pdb
+C:\Users\emile\source\repos\EntityFrameworkExercise\14.DeleteProjectById\obj\Debug\netcoreapp2.1\14.DeleteProjectById.csprojAssemblyReference.cache
+C:\Users\emile\source\repos\EntityFrameworkExercise\14.DeleteProjectById\obj\Debug\netcoreapp2.1\14.DeleteProjectById.csproj.CoreCompileInputs.cache
+C:\Users\emile\source\repos\EntityFrameworkExercise\14.DeleteProjectById\obj\Debug\netcoreapp2.1\14.DeleteProjectById.AssemblyInfoInputs.cache
+C:\Users\emile\source\repos\EntityFrameworkExercise\14.DeleteProjectById\obj\Debug\netcoreapp2.1\14.DeleteProjectById.AssemblyInfo.cs
+C:\Users\emile\source\repos\EntityFrameworkExercise\14.DeleteProjectById\obj\Debug\netcoreapp2.1\14.DeleteProjectById.csproj.CopyComplete
+C:\Users\emile\source\repos\EntityFrameworkExercise\14.DeleteProjectById\obj\Debug\netcoreapp2.1\14.DeleteProjectById.dll
+C:\Users\emile\source\repos\EntityFrameworkExercise\14.DeleteProjectById\obj\Debug\netcoreapp2.1\14.DeleteProjectById.pdb

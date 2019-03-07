@@ -1,0 +1,14 @@
+C:\Users\emile\source\repos\EntityFrameworkExercise\10.DeparmentsWithMoreThan5Employee\bin\Debug\netcoreapp2.1\10.DeparmentsWithMoreThan5Employee.deps.json
+C:\Users\emile\source\repos\EntityFrameworkExercise\10.DeparmentsWithMoreThan5Employee\bin\Debug\netcoreapp2.1\10.DeparmentsWithMoreThan5Employee.runtimeconfig.json
+C:\Users\emile\source\repos\EntityFrameworkExercise\10.DeparmentsWithMoreThan5Employee\bin\Debug\netcoreapp2.1\10.DeparmentsWithMoreThan5Employee.runtimeconfig.dev.json
+C:\Users\emile\source\repos\EntityFrameworkExercise\10.DeparmentsWithMoreThan5Employee\bin\Debug\netcoreapp2.1\10.DeparmentsWithMoreThan5Employee.dll
+C:\Users\emile\source\repos\EntityFrameworkExercise\10.DeparmentsWithMoreThan5Employee\bin\Debug\netcoreapp2.1\10.DeparmentsWithMoreThan5Employee.pdb
+C:\Users\emile\source\repos\EntityFrameworkExercise\10.DeparmentsWithMoreThan5Employee\bin\Debug\netcoreapp2.1\DatabaseFirst.dll
+C:\Users\emile\source\repos\EntityFrameworkExercise\10.DeparmentsWithMoreThan5Employee\bin\Debug\netcoreapp2.1\DatabaseFirst.pdb
+C:\Users\emile\source\repos\EntityFrameworkExercise\10.DeparmentsWithMoreThan5Employee\obj\Debug\netcoreapp2.1\10.DeparmentsWithMoreThan5Employee.csprojAssemblyReference.cache
+C:\Users\emile\source\repos\EntityFrameworkExercise\10.DeparmentsWithMoreThan5Employee\obj\Debug\netcoreapp2.1\10.DeparmentsWithMoreThan5Employee.csproj.CoreCompileInputs.cache
+C:\Users\emile\source\repos\EntityFrameworkExercise\10.DeparmentsWithMoreThan5Employee\obj\Debug\netcoreapp2.1\10.DeparmentsWithMoreThan5Employee.AssemblyInfoInputs.cache
+C:\Users\emile\source\repos\EntityFrameworkExercise\10.DeparmentsWithMoreThan5Employee\obj\Debug\netcoreapp2.1\10.DeparmentsWithMoreThan5Employee.AssemblyInfo.cs
+C:\Users\emile\source\repos\EntityFrameworkExercise\10.DeparmentsWithMoreThan5Employee\obj\Debug\netcoreapp2.1\10.DeparmentsWithMoreThan5Employee.csproj.CopyComplete
+C:\Users\emile\source\repos\EntityFrameworkExercise\10.DeparmentsWithMoreThan5Employee\obj\Debug\netcoreapp2.1\10.DeparmentsWithMoreThan5Employee.dll
+C:\Users\emile\source\repos\EntityFrameworkExercise\10.DeparmentsWithMoreThan5Employee\obj\Debug\netcoreapp2.1\10.DeparmentsWithMoreThan5Employee.pdb

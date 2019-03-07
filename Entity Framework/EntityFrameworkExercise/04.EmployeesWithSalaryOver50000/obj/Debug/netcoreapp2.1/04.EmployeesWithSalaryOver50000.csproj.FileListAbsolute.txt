@@ -1,0 +1,14 @@
+C:\Users\emile\source\repos\EntityFrameworkExercise\04.EmployeesWithSalaryOver50000\bin\Debug\netcoreapp2.1\04.EmployeesWithSalaryOver50000.deps.json
+C:\Users\emile\source\repos\EntityFrameworkExercise\04.EmployeesWithSalaryOver50000\bin\Debug\netcoreapp2.1\04.EmployeesWithSalaryOver50000.runtimeconfig.json
+C:\Users\emile\source\repos\EntityFrameworkExercise\04.EmployeesWithSalaryOver50000\bin\Debug\netcoreapp2.1\04.EmployeesWithSalaryOver50000.runtimeconfig.dev.json
+C:\Users\emile\source\repos\EntityFrameworkExercise\04.EmployeesWithSalaryOver50000\bin\Debug\netcoreapp2.1\04.EmployeesWithSalaryOver50000.dll
+C:\Users\emile\source\repos\EntityFrameworkExercise\04.EmployeesWithSalaryOver50000\bin\Debug\netcoreapp2.1\04.EmployeesWithSalaryOver50000.pdb
+C:\Users\emile\source\repos\EntityFrameworkExercise\04.EmployeesWithSalaryOver50000\bin\Debug\netcoreapp2.1\DatabaseFirst.dll
+C:\Users\emile\source\repos\EntityFrameworkExercise\04.EmployeesWithSalaryOver50000\bin\Debug\netcoreapp2.1\DatabaseFirst.pdb
+C:\Users\emile\source\repos\EntityFrameworkExercise\04.EmployeesWithSalaryOver50000\obj\Debug\netcoreapp2.1\04.EmployeesWithSalaryOver50000.csprojAssemblyReference.cache
+C:\Users\emile\source\repos\EntityFrameworkExercise\04.EmployeesWithSalaryOver50000\obj\Debug\netcoreapp2.1\04.EmployeesWithSalaryOver50000.csproj.CoreCompileInputs.cache
+C:\Users\emile\source\repos\EntityFrameworkExercise\04.EmployeesWithSalaryOver50000\obj\Debug\netcoreapp2.1\04.EmployeesWithSalaryOver50000.AssemblyInfoInputs.cache
+C:\Users\emile\source\repos\EntityFrameworkExercise\04.EmployeesWithSalaryOver50000\obj\Debug\netcoreapp2.1\04.EmployeesWithSalaryOver50000.AssemblyInfo.cs
+C:\Users\emile\source\repos\EntityFrameworkExercise\04.EmployeesWithSalaryOver50000\obj\Debug\netcoreapp2.1\04.EmployeesWithSalaryOver50000.csproj.CopyComplete
+C:\Users\emile\source\repos\EntityFrameworkExercise\04.EmployeesWithSalaryOver50000\obj\Debug\netcoreapp2.1\04.EmployeesWithSalaryOver50000.dll
+C:\Users\emile\source\repos\EntityFrameworkExercise\04.EmployeesWithSalaryOver50000\obj\Debug\netcoreapp2.1\04.EmployeesWithSalaryOver50000.pdb

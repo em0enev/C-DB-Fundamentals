@@ -1,0 +1,14 @@
+C:\Users\emile\source\repos\EntityFrameworkExercise\15.RemoveTown\bin\Debug\netcoreapp2.1\15.RemoveTown.deps.json
+C:\Users\emile\source\repos\EntityFrameworkExercise\15.RemoveTown\bin\Debug\netcoreapp2.1\15.RemoveTown.runtimeconfig.json
+C:\Users\emile\source\repos\EntityFrameworkExercise\15.RemoveTown\bin\Debug\netcoreapp2.1\15.RemoveTown.runtimeconfig.dev.json
+C:\Users\emile\source\repos\EntityFrameworkExercise\15.RemoveTown\bin\Debug\netcoreapp2.1\15.RemoveTown.dll
+C:\Users\emile\source\repos\EntityFrameworkExercise\15.RemoveTown\bin\Debug\netcoreapp2.1\15.RemoveTown.pdb
+C:\Users\emile\source\repos\EntityFrameworkExercise\15.RemoveTown\bin\Debug\netcoreapp2.1\DatabaseFirst.dll
+C:\Users\emile\source\repos\EntityFrameworkExercise\15.RemoveTown\bin\Debug\netcoreapp2.1\DatabaseFirst.pdb
+C:\Users\emile\source\repos\EntityFrameworkExercise\15.RemoveTown\obj\Debug\netcoreapp2.1\15.RemoveTown.csprojAssemblyReference.cache
+C:\Users\emile\source\repos\EntityFrameworkExercise\15.RemoveTown\obj\Debug\netcoreapp2.1\15.RemoveTown.csproj.CoreCompileInputs.cache
+C:\Users\emile\source\repos\EntityFrameworkExercise\15.RemoveTown\obj\Debug\netcoreapp2.1\15.RemoveTown.AssemblyInfoInputs.cache
+C:\Users\emile\source\repos\EntityFrameworkExercise\15.RemoveTown\obj\Debug\netcoreapp2.1\15.RemoveTown.AssemblyInfo.cs
+C:\Users\emile\source\repos\EntityFrameworkExercise\15.RemoveTown\obj\Debug\netcoreapp2.1\15.RemoveTown.csproj.CopyComplete
+C:\Users\emile\source\repos\EntityFrameworkExercise\15.RemoveTown\obj\Debug\netcoreapp2.1\15.RemoveTown.dll
+C:\Users\emile\source\repos\EntityFrameworkExercise\15.RemoveTown\obj\Debug\netcoreapp2.1\15.RemoveTown.pdb
