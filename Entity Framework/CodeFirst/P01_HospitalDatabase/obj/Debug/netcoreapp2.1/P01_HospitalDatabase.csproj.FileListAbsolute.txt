@@ -1,0 +1,11 @@
+C:\Users\emile\source\repos\CodeFirst\P01_HospitalDatabase\bin\Debug\netcoreapp2.1\P01_HospitalDatabase.deps.json
+C:\Users\emile\source\repos\CodeFirst\P01_HospitalDatabase\bin\Debug\netcoreapp2.1\P01_HospitalDatabase.runtimeconfig.json
+C:\Users\emile\source\repos\CodeFirst\P01_HospitalDatabase\bin\Debug\netcoreapp2.1\P01_HospitalDatabase.runtimeconfig.dev.json
+C:\Users\emile\source\repos\CodeFirst\P01_HospitalDatabase\bin\Debug\netcoreapp2.1\P01_HospitalDatabase.dll
+C:\Users\emile\source\repos\CodeFirst\P01_HospitalDatabase\obj\Debug\netcoreapp2.1\P01_HospitalDatabase.csprojAssemblyReference.cache
+C:\Users\emile\source\repos\CodeFirst\P01_HospitalDatabase\obj\Debug\netcoreapp2.1\P01_HospitalDatabase.csproj.CoreCompileInputs.cache
+C:\Users\emile\source\repos\CodeFirst\P01_HospitalDatabase\obj\Debug\netcoreapp2.1\P01_HospitalDatabase.AssemblyInfoInputs.cache
+C:\Users\emile\source\repos\CodeFirst\P01_HospitalDatabase\obj\Debug\netcoreapp2.1\P01_HospitalDatabase.AssemblyInfo.cs
+C:\Users\emile\source\repos\CodeFirst\P01_HospitalDatabase\bin\Debug\netcoreapp2.1\P01_HospitalDatabase.pdb
+C:\Users\emile\source\repos\CodeFirst\P01_HospitalDatabase\obj\Debug\netcoreapp2.1\P01_HospitalDatabase.dll
+C:\Users\emile\source\repos\CodeFirst\P01_HospitalDatabase\obj\Debug\netcoreapp2.1\P01_HospitalDatabase.pdb
