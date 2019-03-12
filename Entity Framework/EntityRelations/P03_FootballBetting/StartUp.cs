@@ -1,0 +1,13 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace P03_FootballBetting
+{
+    class StartUp
+    {
+        static void Main(string[] args)
+        {
+
+        }
+    }
+}
