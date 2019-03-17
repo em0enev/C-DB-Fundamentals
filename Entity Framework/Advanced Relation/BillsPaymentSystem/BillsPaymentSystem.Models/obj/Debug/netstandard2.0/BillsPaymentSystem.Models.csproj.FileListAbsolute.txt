@@ -1,0 +1,12 @@
+C:\Users\emile\source\repos\BillsPaymentSystem\BillsPaymentSystem.Models\bin\Debug\netstandard2.0\BillsPaymentSystem.Models.deps.json
+C:\Users\emile\source\repos\BillsPaymentSystem\BillsPaymentSystem.Models\bin\Debug\netstandard2.0\BillsPaymentSystem.Models.dll
+C:\Users\emile\source\repos\BillsPaymentSystem\BillsPaymentSystem.Models\bin\Debug\netstandard2.0\BillsPaymentSystem.Models.pdb
+C:\Users\emile\source\repos\BillsPaymentSystem\BillsPaymentSystem.Models\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Users\emile\source\repos\BillsPaymentSystem\BillsPaymentSystem.Models\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+C:\Users\emile\source\repos\BillsPaymentSystem\BillsPaymentSystem.Models\obj\Debug\netstandard2.0\BillsPaymentSystem.Models.csprojAssemblyReference.cache
+C:\Users\emile\source\repos\BillsPaymentSystem\BillsPaymentSystem.Models\obj\Debug\netstandard2.0\BillsPaymentSystem.Models.csproj.CoreCompileInputs.cache
+C:\Users\emile\source\repos\BillsPaymentSystem\BillsPaymentSystem.Models\obj\Debug\netstandard2.0\BillsPaymentSystem.Models.AssemblyInfoInputs.cache
+C:\Users\emile\source\repos\BillsPaymentSystem\BillsPaymentSystem.Models\obj\Debug\netstandard2.0\BillsPaymentSystem.Models.AssemblyInfo.cs
+C:\Users\emile\source\repos\BillsPaymentSystem\BillsPaymentSystem.Models\obj\Debug\netstandard2.0\BillsPaymentSystem.Models.csproj.CopyComplete
+C:\Users\emile\source\repos\BillsPaymentSystem\BillsPaymentSystem.Models\obj\Debug\netstandard2.0\BillsPaymentSystem.Models.dll
+C:\Users\emile\source\repos\BillsPaymentSystem\BillsPaymentSystem.Models\obj\Debug\netstandard2.0\BillsPaymentSystem.Models.pdb

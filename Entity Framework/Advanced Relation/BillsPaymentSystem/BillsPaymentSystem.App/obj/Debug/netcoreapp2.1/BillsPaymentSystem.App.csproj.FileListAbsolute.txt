@@ -1,0 +1,16 @@
+C:\Users\emile\source\repos\BillsPaymentSystem\BillsPaymentSystem.App\bin\Debug\netcoreapp2.1\BillsPaymentSystem.App.deps.json
+C:\Users\emile\source\repos\BillsPaymentSystem\BillsPaymentSystem.App\bin\Debug\netcoreapp2.1\BillsPaymentSystem.App.runtimeconfig.json
+C:\Users\emile\source\repos\BillsPaymentSystem\BillsPaymentSystem.App\bin\Debug\netcoreapp2.1\BillsPaymentSystem.App.runtimeconfig.dev.json
+C:\Users\emile\source\repos\BillsPaymentSystem\BillsPaymentSystem.App\bin\Debug\netcoreapp2.1\BillsPaymentSystem.App.dll
+C:\Users\emile\source\repos\BillsPaymentSystem\BillsPaymentSystem.App\bin\Debug\netcoreapp2.1\BillsPaymentSystem.App.pdb
+C:\Users\emile\source\repos\BillsPaymentSystem\BillsPaymentSystem.App\obj\Debug\netcoreapp2.1\BillsPaymentSystem.App.csprojAssemblyReference.cache
+C:\Users\emile\source\repos\BillsPaymentSystem\BillsPaymentSystem.App\obj\Debug\netcoreapp2.1\BillsPaymentSystem.App.csproj.CoreCompileInputs.cache
+C:\Users\emile\source\repos\BillsPaymentSystem\BillsPaymentSystem.App\obj\Debug\netcoreapp2.1\BillsPaymentSystem.App.AssemblyInfoInputs.cache
+C:\Users\emile\source\repos\BillsPaymentSystem\BillsPaymentSystem.App\obj\Debug\netcoreapp2.1\BillsPaymentSystem.App.AssemblyInfo.cs
+C:\Users\emile\source\repos\BillsPaymentSystem\BillsPaymentSystem.App\obj\Debug\netcoreapp2.1\BillsPaymentSystem.App.dll
+C:\Users\emile\source\repos\BillsPaymentSystem\BillsPaymentSystem.App\obj\Debug\netcoreapp2.1\BillsPaymentSystem.App.pdb
+C:\Users\emile\source\repos\BillsPaymentSystem\BillsPaymentSystem.App\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Data.dll
+C:\Users\emile\source\repos\BillsPaymentSystem\BillsPaymentSystem.App\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Models.dll
+C:\Users\emile\source\repos\BillsPaymentSystem\BillsPaymentSystem.App\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Data.pdb
+C:\Users\emile\source\repos\BillsPaymentSystem\BillsPaymentSystem.App\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Models.pdb
+C:\Users\emile\source\repos\BillsPaymentSystem\BillsPaymentSystem.App\obj\Debug\netcoreapp2.1\BillsPaymentSystem.App.csproj.CopyComplete
