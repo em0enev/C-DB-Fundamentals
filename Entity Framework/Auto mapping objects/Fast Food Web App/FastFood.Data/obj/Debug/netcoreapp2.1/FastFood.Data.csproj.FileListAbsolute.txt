@@ -1,0 +1,14 @@
+C:\Users\emile\Desktop\fast food\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.deps.json
+C:\Users\emile\Desktop\fast food\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.runtimeconfig.json
+C:\Users\emile\Desktop\fast food\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.runtimeconfig.dev.json
+C:\Users\emile\Desktop\fast food\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.dll
+C:\Users\emile\Desktop\fast food\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.pdb
+C:\Users\emile\Desktop\fast food\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Models.dll
+C:\Users\emile\Desktop\fast food\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Models.pdb
+C:\Users\emile\Desktop\fast food\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.csprojAssemblyReference.cache
+C:\Users\emile\Desktop\fast food\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.csproj.CoreCompileInputs.cache
+C:\Users\emile\Desktop\fast food\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.AssemblyInfoInputs.cache
+C:\Users\emile\Desktop\fast food\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.AssemblyInfo.cs
+C:\Users\emile\Desktop\fast food\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.csproj.CopyComplete
+C:\Users\emile\Desktop\fast food\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.dll
+C:\Users\emile\Desktop\fast food\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.pdb
