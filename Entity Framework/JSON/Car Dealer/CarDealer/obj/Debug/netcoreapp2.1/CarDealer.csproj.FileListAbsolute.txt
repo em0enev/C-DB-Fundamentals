@@ -20,3 +20,14 @@ C:\Users\emile\Desktop\Car Dealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.As
 C:\Users\emile\Desktop\Car Dealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfo.cs
 C:\Users\emile\Desktop\Car Dealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.dll
 C:\Users\emile\Desktop\Car Dealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.pdb
+C:\Users\emile\Desktop\Ms Sql\C-DB-Fundamentals\Entity Framework\JSON\Car Dealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.deps.json
+C:\Users\emile\Desktop\Ms Sql\C-DB-Fundamentals\Entity Framework\JSON\Car Dealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.json
+C:\Users\emile\Desktop\Ms Sql\C-DB-Fundamentals\Entity Framework\JSON\Car Dealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.dev.json
+C:\Users\emile\Desktop\Ms Sql\C-DB-Fundamentals\Entity Framework\JSON\Car Dealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.dll
+C:\Users\emile\Desktop\Ms Sql\C-DB-Fundamentals\Entity Framework\JSON\Car Dealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.pdb
+C:\Users\emile\Desktop\Ms Sql\C-DB-Fundamentals\Entity Framework\JSON\Car Dealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csprojAssemblyReference.cache
+C:\Users\emile\Desktop\Ms Sql\C-DB-Fundamentals\Entity Framework\JSON\Car Dealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csproj.CoreCompileInputs.cache
+C:\Users\emile\Desktop\Ms Sql\C-DB-Fundamentals\Entity Framework\JSON\Car Dealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfoInputs.cache
+C:\Users\emile\Desktop\Ms Sql\C-DB-Fundamentals\Entity Framework\JSON\Car Dealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfo.cs
+C:\Users\emile\Desktop\Ms Sql\C-DB-Fundamentals\Entity Framework\JSON\Car Dealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.dll
+C:\Users\emile\Desktop\Ms Sql\C-DB-Fundamentals\Entity Framework\JSON\Car Dealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.pdb

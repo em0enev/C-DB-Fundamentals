@@ -5351,11 +5351,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emile\\Desktop\\Car Dealer\\CarDealer\\CarDealer.csproj",
+      "projectUniqueName": "C:\\Users\\emile\\Desktop\\Ms Sql\\C-DB-Fundamentals\\Entity Framework\\JSON\\Car Dealer\\CarDealer\\CarDealer.csproj",
       "projectName": "CarDealer",
-      "projectPath": "C:\\Users\\emile\\Desktop\\Car Dealer\\CarDealer\\CarDealer.csproj",
+      "projectPath": "C:\\Users\\emile\\Desktop\\Ms Sql\\C-DB-Fundamentals\\Entity Framework\\JSON\\Car Dealer\\CarDealer\\CarDealer.csproj",
       "packagesPath": "C:\\Users\\emile\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emile\\Desktop\\Car Dealer\\CarDealer\\obj\\",
+      "outputPath": "C:\\Users\\emile\\Desktop\\Ms Sql\\C-DB-Fundamentals\\Entity Framework\\JSON\\Car Dealer\\CarDealer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -16,13 +16,13 @@ namespace CarDealer
         {
             var context = new CarDealerContext();
 
-            var suppliersJson = File.ReadAllText(@"C:\Users\emile\Desktop\Car Dealer\CarDealer\Datasets\suppliers.json");
-            var partsJson = File.ReadAllText(@"C:\Users\emile\Desktop\Car Dealer\CarDealer\Datasets\parts.json");
-            var carsJson = File.ReadAllText(@"C:\Users\emile\Desktop\Car Dealer\CarDealer\Datasets\cars.json");
-            var customersJson = File.ReadAllText(@"C:\Users\emile\Desktop\Car Dealer\CarDealer\Datasets\customers.json");
-            var salesJson = File.ReadAllText(@"C:\Users\emile\Desktop\Car Dealer\CarDealer\Datasets\sales.json");
+            //var suppliersJson = File.ReadAllText(@"C:\Users\emile\Desktop\Car Dealer\CarDealer\Datasets\suppliers.json");
+            //var partsJson = File.ReadAllText(@"C:\Users\emile\Desktop\Car Dealer\CarDealer\Datasets\parts.json");
+            //var carsJson = File.ReadAllText(@"C:\Users\emile\Desktop\Car Dealer\CarDealer\Datasets\cars.json");
+            //var customersJson = File.ReadAllText(@"C:\Users\emile\Desktop\Car Dealer\CarDealer\Datasets\customers.json");
+            //var salesJson = File.ReadAllText(@"C:\Users\emile\Desktop\Car Dealer\CarDealer\Datasets\sales.json");
 
-            Console.WriteLine(GetCarsFromMakeToyota(context));
+            Console.WriteLine(GetSalesWithAppliedDiscount(context));
 
         }
 
@@ -125,6 +125,78 @@ namespace CarDealer
             string toyotaCarsJSON = JsonConvert.SerializeObject(cars, Formatting.Indented);
 
             return toyotaCarsJSON;
+        }
+
+        public static string GetLocalSuppliers(CarDealerContext context)
+        {
+            var suppliers = context.Suppliers
+                .Where(s => s.IsImporter == false)
+                .Select(s => new
+                {
+                    s.Id,
+                    s.Name,
+                    PartsCount = s.Parts.Count
+                })
+                .ToList();
+
+            var suppliersJSON = JsonConvert.SerializeObject(suppliers, Formatting.Indented);
+
+            return suppliersJSON;
+        }
+
+        public static string GetCarsWithTheirListOfParts(CarDealerContext context)
+        {
+            var carsWithParts = context.Cars
+                .Select(c => new
+                {
+                    car = new
+                    {
+                        c.Make,
+                        c.Model,
+                        c.TravelledDistance
+                    },
+                    parts = c.PartCars
+                            .Select(pc => new
+                            {
+                                pc.Part.Name,
+                                Price = pc.Part.Price.ToString("0.00")
+                            }
+                            ).ToList()
+                })
+                .ToList();
+
+            var carsWithPartsJSON = JsonConvert.SerializeObject(carsWithParts, Formatting.Indented);
+
+            return carsWithPartsJSON;
+        }
+
+        public static string GetSalesWithAppliedDiscount(CarDealerContext context)
+        {
+            var info = context.Sales
+                .Take(10)
+                .Select(s => new
+                {
+                    car = new
+                    {
+                        Make = s.Car.Make,
+                        Model = s.Car.Model,
+                        TravelledDistance = s.Car.TravelledDistance
+                    },
+                    customerName = s.Customer.Name,
+                    Discount = $"{s.Discount}",
+                    price = $"{s.Car.PartCars.Sum(y => y.Part.Price):F2}",
+                    priceWithDiscount = $"{s.Car.PartCars.Sum(y => y.Part.Price) - (s.Car.PartCars.Sum(y => y.Part.Price) * (s.Discount / 100)):F2}",
+                })
+                .ToList();
+
+            var infoJSON = JsonConvert.SerializeObject(info, new JsonSerializerSettings()
+            {
+                NullValueHandling = NullValueHandling.Ignore,
+                Formatting = Formatting.Indented,
+
+            });
+
+            return infoJSON;
         }
     }
 }
